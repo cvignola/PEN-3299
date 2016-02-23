@@ -1,0 +1,8 @@
+<server description="Required to enable server config tool">
+
+    <remoteFileAccess>
+       <writeDir>${server.config.dir}</writeDir>
+    </remoteFileAccess>
+
+</server>
+

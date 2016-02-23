@@ -1,0 +1,8 @@
+<server description="Scaling policy configuration for cluster strongLoopCluster">
+    <scalingDefinitions>
+      <scalingPolicy id="strongLoopCluster" enabled="true" min="0" max="0">
+         <metric name="heap" min="0" max="1"/>
+         <bind clusters="strongLoopCluster"/>
+    </scalingPolicy>
+   </scalingDefinitions>
+</server>

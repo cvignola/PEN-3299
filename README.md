@@ -1,2 +1,3 @@
-# PEN-3299
-Addendum for Interconnect 2016 Lab PEN-3299
+# PEN-3299 
+This project containers extra materials for PEN-3299 Lab.
+Please refer to instructions.pdf for further information. 
