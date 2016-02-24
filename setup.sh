@@ -1,8 +1,5 @@
 # updates for PEN-3299 lab addendum 
 
-# update WLP runtime so start Node.js from AdminCenter works 
-cd ~/PEN-3299 
-unzip -q -o -d ~/IBM/wlp/lib collective.zip
 
 cd ~/PEN-3299/nodejs 
 
